@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-pandas
-mlflow
-scikit-learn
-boto3
